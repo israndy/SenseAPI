@@ -3,8 +3,6 @@
  Python app to test functions of the Sense API
 """
 
-username = 'israndy@yahoo.com'
-password = 'comrYw-4vobqo-gizrig'
 #username = 'elon@tesla.com'         # Sense's login
 #password = 'password'               # Sense's password
 
